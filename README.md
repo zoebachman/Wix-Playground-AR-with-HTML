@@ -42,7 +42,12 @@ Mingling and Goodbye
 
 ## Resources:
 
+### Intro to AR in A-Frame
 - [Creating Augmented Reality with AR.js and A-Frame](https://aframe.io/blog/arjs/#markers-presets-for-easier-configuration)
 - [AR.js](https://github.com/jeromeetienne/AR.js)
   - [AR.js and A-Frame](https://github.com/jeromeetienne/AR.js/tree/master/aframe)
+
+### 3D Models
 - [3D Models in A-Frame](https://aframe.io/docs/0.8.0/introduction/models.html##sidebar)
+
+
