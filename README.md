@@ -49,5 +49,12 @@ Mingling and Goodbye
 
 ### 3D Models
 - [3D Models in A-Frame](https://aframe.io/docs/0.8.0/introduction/models.html##sidebar)
+- [Using 3D models with AR.js and A-Frame](https://medium.com/@akashkuttappa/using-3d-models-with-ar-js-and-a-frame-84d462efe498)
+- [Sketchfab]()
+- [Blender]()
+
+### Markers
+- [Marker Generator](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+- [AR Code Generator]()https://jeromeetienne.github.io/AR.js/three.js/examples/arcode.html
 
 
