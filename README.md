@@ -2,7 +2,7 @@
 Repo for an AR workshop at Wix Playground - March 2020
 
 Led by:
- - [Anne Goodfriend](https://www.annekgoodfriend.com/ ) - [anne.k.goodfriend@gmail.com](anne.k.goodfriend@gmail.com)
+ - [Anne Goodfriend](https://www.annekgoodfriend.com/ ) - [annekgoodfriend@gmail.com](anne.k.goodfriend@gmail.com)
  - [Zoe Bachman](http://zoebachman.net) - [zoe.bachman@gmail.com](zoe.bachman@gmail.com)
 
 ## AR with HTML Workshop
@@ -38,6 +38,9 @@ Code and share
 
 **9pm**  
 Mingling and Goodbye  
+
+## Starter Template
+[A-Frame AR on Glitch](https://glitch.com/edit/#!/aframe-ar-wixplayground?path=index.html:25:0)
 
 
 ## Resources:
