@@ -55,19 +55,19 @@ Mingling and Goodbye
 - [Using 3D models with AR.js and A-Frame](https://medium.com/@akashkuttappa/using-3d-models-with-ar-js-and-a-frame-84d462efe498)
 #### Where to Find Models
 Places to find 3D models include:
-
-- [Sketchfab]()
-- [Clara.io]()
-- [Archive3D]()
-- [Sketchup’s 3D Warehouse]()
-- [TurboSquid]()
+- [Google Poly](https://poly.google.com/)
+- [Sketchfab](https://sketchfab.com/)
+- [Clara.io](https://clara.io/)
+- [Archive3D](https://archive3d.net/)
+- [Sketchup’s 3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
+- [TurboSquid](https://www.turbosquid.com/)
 #### How to Create Models
 Programs to create models include:
 
-- [Blender]() (FREE!)
-- [MagicaVoxel]()
-- [Autodesk Maya or Maya LT]()
-- [Maxon Cinema4D]()
+- [Blender](https://www.blender.org/) (FREE!)
+- [MagicaVoxel](https://ephtracy.github.io/) (FREE!)
+- [Autodesk Maya or Maya LT](https://www.autodesk.com/products/maya/)
+- [Maxon Cinema4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 
 ### Markers
 - [Marker Generator](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
